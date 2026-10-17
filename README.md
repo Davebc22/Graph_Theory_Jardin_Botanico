@@ -18,8 +18,7 @@ El proyecto se enfoca en resolver dos preguntas fundamentales:
 ## Estructura del Repositorio
 
 El repositorio consta de dos branches principales:
-- **master:** Contiene la versión principal del código.
-- **feature:** Incluye una funcionalidad adicional o en desarrollo.
+- **main2:** Contiene la versión principal del código.
 
 ## Guía de Navegación
 
@@ -32,14 +31,6 @@ El repositorio consta de dos branches principales:
 - **Google Colab:** Plataforma en la nube para desarrollar códigos Python.
 - **Excel:** Empleado para realizar la combinatoria requerida para el ejercicio.
 
-## Cómo Contribuir
-
-¡Bienvenido a contribuir! Si deseas mejorar este proyecto, sigue estos pasos:
-1. Haz un fork del proyecto.
-2. Crea un branch para tu contribución (`git checkout -b tu-rama`).
-3. Realiza tus cambios y commitea (`git commit -m "Añade tus cambios"`).
-4. Sube tus cambios a tu fork (`git push origin tu-rama`).
-5. Abre un Pull Request.
 
 ## Contacto
 
